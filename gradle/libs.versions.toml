@@ -1,6 +1,6 @@
 [versions]
 agp = "8.2.0"
-androidx-vectordrawable = "1.1.0"
+androidx-vectordrawable = "1.2.0"
 androidx-navigation = "2.5.3"
 kotlin = "1.9.20"
 kotlin-coroutines = "1.7.3"
