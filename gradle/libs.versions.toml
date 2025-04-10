@@ -37,7 +37,7 @@ color-picker = { module = "com.github.martin-stone:hsv-alpha-color-picker-androi
 androidsvg = { module = "com.caverock:androidsvg-aar", version = "1.4" }
 picasso = { module = "com.squareup.picasso:picasso", version = "2.71828" }
 zip4j = { module = "net.lingala.zip4j:zip4j", version = "2.11.5" }
-lottie = { module = "com.airbnb.android:lottie", version = "6.6.4" }
+lottie = { module = "com.airbnb.android:lottie", version = "6.6.6" }
 group-box-layout = { module = "com.github.homayoonahmadi:GroupBoxLayout", version = "1.2.5" }
 
 [plugins]
