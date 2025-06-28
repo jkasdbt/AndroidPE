@@ -30,7 +30,7 @@
 </div>
 
 ### Contact
-- Telegram: https://t.me/android_pe
+- Telegram: https://t.me/AndroidPEOfficial
 
 
 ### Thanks to
