@@ -29,7 +29,7 @@ androidx-viewpager2 = { module = "androidx.viewpager2:viewpager", version = "2:1
 
 # Google
 google-material = { module = "com.google.android.material:material", version = "1.9.0" }
-google-java-format = { module = "com.google.googlejavaformat:google-java-format", version = "1.17.0" }
+google-java-format = { module = "com.google.googlejavaformat:google-java-format", version = "1.28.0" }
 google-flexbox = { module = "com.google.android.flexbox:flexbox", version = "3.0.0" }
 
 # Others
