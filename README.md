@@ -14,13 +14,13 @@
 - [X] Component properties with value auto-completion
 - [X] Preview mode
 - [X] res/menu (experimental)
-- [X] res/values (colors, dimens, integers, strings)
+- [X] res/values (`colors`, `dimens`, `integers`, `strings`)
 
 
 ### Project management
 - [X] Multi-module project supported (Android Project only)
 - [X] Addition and dependencies between modules
-- [X] Management of Activities, Permissions, Services, ...
+- [X] Management of `Activities`, `Permissions`, `Services`, `...`
 - [X] Translation Editor (Experimental)
 
 
