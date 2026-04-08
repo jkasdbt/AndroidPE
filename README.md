@@ -43,21 +43,21 @@
 - [X] Drag & drop interface  
 - [X] Component properties with auto‑completion  
 - [X] Preview mode  
-- [X] res/menu (experimental)  
-- [X] res/values (colors, dimens, integers, strings)  
-- [X] res/drawable (assets studio)  
+- [X] res/menu (`experimental`)  
+- [X] res/values (`colors`, `dimens`, `integers`, `strings`)  
+- [X] res/drawable (`assets studio`)  
 - [X] Markdown preview  
 - [X] HTML preview  
 
 ### 🗃️ Project Management
 - [X] Multi‑module project support  
 - [X] Module dependencies  
-- [X] Activities, Permissions, Services management  
-- [X] Translation Editor (experimental)  
+- [X] Activities, Permissions and Services management  
+- [X] String Translation Editor (`experimental`)  
 
 ### 📦 Project Compilation
 - [X] Any Gradle‑based Android project  
-- [X] NDK support (64‑bit only)  
+- [X] NDK support (`64‑bit only`)  
 - [X] Latest Android tools support  
 
 ### #️⃣ Terminal (Experimental)
