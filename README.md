@@ -89,7 +89,7 @@
 
 # 👥 Community
 
-Join us on Telegram for early tests, feature previews, monthly updates and more:  
+Join us on Telegram for early tests, feature previews, updates and more:  
 👉 **https://t.me/AndroidPEOfficial**
 
 ---
