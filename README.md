@@ -20,7 +20,6 @@
 
   <!-- Features -->
   <img src="https://img.shields.io/badge/UI%20Designer-WYSIWYG-yellow">
-  <img src="https://img.shields.io/badge/LSP-Java%20%7C%20Kotlin%20%7C%20XML-white">
   <img src="https://img.shields.io/badge/NDK-64bit%20only-critical">
 
   <!-- Community -->
