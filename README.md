@@ -59,7 +59,7 @@
 - [X] NDK support (`64‑bit only`)  
 - [X] Latest Android tools support  
 
-### #️⃣ Terminal (Experimental)
+### #️⃣ Terminal
 - [X] Linux rootfs (Ubuntu‑based)  
 
 ### ⌨️ Language Servers
